@@ -10,7 +10,7 @@ Started on: May 12, 2025
 
 Below are the following Programming Languages the team used for development:
 
-- Java (JDK 24)
+- Java (JDK 21)
 - Kotlin 2.1
 
 We also use the following Tools:
